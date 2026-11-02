@@ -72,7 +72,7 @@ require __DIR__ . '/includes/header.php';
         <p>These Terms are governed by the laws of India, without regard to conflict-of-law rules. Courts in India shall have exclusive jurisdiction, subject to any mandatory consumer protections that apply.</p>
 
         <h2>14. Contact</h2>
-        <p>Questions about these Terms: <a href="mailto:legal@trustxpro.in">legal@trustxpro.in</a> or <a href="mailto:trustxplus@gmail.com">trustxplus@gmail.com</a>.</p>
+        <p>Questions about these Terms:<a href="mailto:trustxplus@gmail.com">trustxplus@gmail.com</a>.</p>
       </div>
     </article>
   </main>
