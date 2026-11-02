@@ -1,0 +1,24 @@
+# TrustX Pro marketing site — https://trustxpro.in
+Options -Indexes
+DirectoryIndex index.php index.html
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # Optional clean URLs
+  RewriteRule ^terms/?$ terms.php [L]
+  RewriteRule ^privacy/?$ privacy.php [L]
+
+  # Legacy .html → .php
+  RewriteRule ^index\.html$ index.php [R=301,L]
+  RewriteRule ^terms\.html$ terms.php [R=301,L]
+  RewriteRule ^privacy\.html$ privacy.php [R=301,L]
+</IfModule>
+
+# Basic security headers (hosting may override)
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  Header set X-Frame-Options "SAMEORIGIN"
+</IfModule>
