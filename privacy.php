@@ -22,7 +22,7 @@ require __DIR__ . '/includes/header.php';
         <p>This Privacy Policy explains how TrustX Pro (“we”, “us”) collects, uses, shares, and protects personal information when you visit <a href="https://trustxpro.in">trustxpro.in</a>, use our applications and panels, or otherwise interact with our Services.</p>
 
         <h2>1. Who we are</h2>
-        <p>TrustX Pro operates product authenticity, QR / coupon, loyalty, and distribution software. For privacy requests contact <a href="mailto:privacy@trustxpro.in">privacy@trustxpro.in</a>.</p>
+        <p>TrustX Pro operates product authenticity, QR / coupon, loyalty, and distribution software. For privacy requests contact <a href="mailto:trustxplus@gmail.com">trustxplus@gmail.com</a>.</p>
 
         <h2>2. Information we collect</h2>
         <ul>
@@ -69,17 +69,16 @@ require __DIR__ . '/includes/header.php';
         <p>If data is processed outside your country, we take steps intended to ensure appropriate safeguards consistent with applicable law.</p>
 
         <h2>10. Your rights</h2>
-        <p>Depending on applicable law, you may have rights to access, correct, delete, restrict, or object to certain processing, and to withdraw consent. Organization users should first contact their company admin. You may also email <a href="mailto:privacy@trustxpro.in">privacy@trustxpro.in</a>. You may have the right to lodge a complaint with a supervisory authority.</p>
+        <p>Depending on applicable law, you may have rights to access, correct, delete, restrict, or object to certain processing, and to withdraw consent. Organization users should first contact their company admin. You may also email <a href="mailto:trustxplus@gmail.com">trustxplus@gmail.com</a>. You may have the right to lodge a complaint with a supervisory authority.</p>
 
         <h2>11. Children</h2>
         <p>The Services are directed to businesses and adult users. We do not knowingly collect personal information from children under 18.</p>
 
         <h2>12. Changes</h2>
         <p>We may update this Policy from time to time. We will revise the “Last updated” date and, where appropriate, provide additional notice.</p>
-
         <h2>13. Contact</h2>
-        <p>Privacy inquiries: <a href="mailto:privacy@trustxpro.in">privacy@trustxpro.in</a><br>
-        General: <a href="mailto:trustxplus@gmail.com">trustxplus@gmail.com</a></p>
+        <p>Privacy inquiries: <a href="mailto:trustxplus@gmail.com">trustxplus@gmail.com</a></p>
+        
       </div>
     </article>
   </main>
