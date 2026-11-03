@@ -6,7 +6,7 @@
           <p class="hero__lead">Secure product labels, scan-based rewards, and distribution control — from factory floor to field.</p>
           <div class="hero__actions">
             <a class="btn btn--primary" href="#how">See how it works</a>
-            <a class="btn btn--ghost" href="#contact">Request a demo</a>
+            <a class="btn btn--ghost" href="contact.php">Request a demo</a>
           </div>
         </div>
         <aside class="hero__panel" aria-hidden="true">

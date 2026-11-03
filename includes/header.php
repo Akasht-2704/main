@@ -13,7 +13,7 @@ $nav_prefix = $nav_prefix ?? '';
         <li><a href="<?php echo htmlspecialchars($nav_prefix, ENT_QUOTES, 'UTF-8'); ?>#who">Who it’s for</a></li>
         <li><a href="terms.php">Terms</a></li>
         <li><a href="privacy.php">Privacy</a></li>
-        <li><a class="nav-cta" href="<?php echo htmlspecialchars($nav_prefix, ENT_QUOTES, 'UTF-8'); ?>#contact">Talk to us</a></li>
+        <li><a class="nav-cta" href="contact.php">Talk to us</a></li>
       </ul>
     </div>
   </header>

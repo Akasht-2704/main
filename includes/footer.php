@@ -16,18 +16,18 @@
           <h3>Product</h3>
           <a href="index.php#how">How it works</a>
           <a href="index.php#who">Who it’s for</a>
-          <a href="index.php#contact">Request a demo</a>
+          <a href="contact.php">Contact</a>
         </nav>
         <nav class="site-footer__col" aria-label="Company">
           <h3>Company</h3>
           <a href="terms.php">Terms &amp; Conditions</a>
           <a href="privacy.php">Privacy Policy</a>
-          <a href="mailto:trustxplus@gmail.com">Contact</a>
+          <a href="contact.php">Contact</a>
         </nav>
         <div class="site-footer__col site-footer__col--contact">
           <h3>Get in touch</h3>
-          <a class="site-footer__mail" href="mailto:trustxplus@gmail.com">trustxplus@gmail.com</a>
-          <p>Tell us about your product line and label workflow.</p>
+          <a class="site-footer__mail" href="tel:+919826045670">+91 98260 45670</a>
+          <a href="mailto:trustxplus@gmail.com">trustxplus@gmail.com</a>
         </div>
       </div>
     </div>

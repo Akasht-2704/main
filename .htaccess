@@ -9,6 +9,7 @@ DirectoryIndex index.php index.html
   # Optional clean URLs
   RewriteRule ^terms/?$ terms.php [L]
   RewriteRule ^privacy/?$ privacy.php [L]
+  RewriteRule ^contact/?$ contact.php [L]
 
   # Legacy .html → .php
   RewriteRule ^index\.html$ index.php [R=301,L]
