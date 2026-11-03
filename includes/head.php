@@ -10,6 +10,9 @@ $page_canonical = $page_canonical ?? 'https://trustxpro.in/';
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title><?php echo htmlspecialchars($page_title, ENT_QUOTES, 'UTF-8'); ?></title>
   <meta name="description" content="<?php echo htmlspecialchars($page_description, ENT_QUOTES, 'UTF-8'); ?>">
+<?php if (!empty($google_site_verification)): ?>
+  <meta name="google-site-verification" content="<?php echo htmlspecialchars($google_site_verification, ENT_QUOTES, 'UTF-8'); ?>">
+<?php endif; ?>
   <link rel="canonical" href="<?php echo htmlspecialchars($page_canonical, ENT_QUOTES, 'UTF-8'); ?>">
   <link rel="icon" type="image/png" href="assets/img/logo-mark.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
