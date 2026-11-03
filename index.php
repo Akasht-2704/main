@@ -4,7 +4,7 @@ $page_description = 'TrustX Pro helps brands protect products with secure QR lab
 $page_canonical = 'https://trustxpro.in/';
 $nav_home = 'index.php';
 $nav_prefix = '';
-$google_site_verification = 'bpSAVP8tC02N3hYSYM4ThcPUI2iWKTZiK1mR61rqcFU';
+$google_site_verification = 'TA3lFk4brW7sHsD9UHmJd2cSUsFLMzKl9aSRP19T5vw';
 
 require __DIR__ . '/includes/head.php';
 require __DIR__ . '/includes/header.php';
