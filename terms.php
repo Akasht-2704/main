@@ -1,9 +1,9 @@
 <?php
 $page_title = 'Terms & Conditions — TrustX Pro';
 $page_description = 'Terms and Conditions for using TrustX Pro websites, applications, and related services.';
-$page_canonical = 'https://trustxpro.in/terms.php';
-$nav_home = 'index.php';
-$nav_prefix = 'index.php';
+$page_canonical = 'https://trustxpro.in/terms';
+$nav_home = '/';
+$nav_prefix = '/';
 
 require __DIR__ . '/includes/head.php';
 require __DIR__ . '/includes/header.php';

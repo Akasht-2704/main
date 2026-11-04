@@ -2,8 +2,8 @@
     <div class="site-footer__glow" aria-hidden="true"></div>
     <div class="site-footer__inner">
       <div class="site-footer__brand">
-        <a class="site-footer__logo" href="index.php">
-          <img src="assets/img/logo-mark.png" width="64" height="64" alt="Trustxpro">
+        <a class="site-footer__logo" href="/">
+          <img src="/assets/img/logo-mark.png" width="64" height="64" alt="Trustxpro">
         </a>
         <div>
           <p class="site-footer__name">Trust<span>xpro</span></p>
@@ -14,15 +14,15 @@
       <div class="site-footer__cols">
         <nav class="site-footer__col" aria-label="Product">
           <h3>Product</h3>
-          <a href="index.php#how">How it works</a>
-          <a href="index.php#who">Who it’s for</a>
-          <a href="contact.php">Contact</a>
+          <a href="/#how">How it works</a>
+          <a href="/#who">Who it’s for</a>
+          <a href="/faq">FAQ</a>
         </nav>
         <nav class="site-footer__col" aria-label="Company">
           <h3>Company</h3>
-          <a href="terms.php">Terms &amp; Conditions</a>
-          <a href="privacy.php">Privacy Policy</a>
-          <a href="contact.php">Contact</a>
+          <a href="/terms">Terms &amp; Conditions</a>
+          <a href="/privacy">Privacy Policy</a>
+          <a href="/contact">Contact</a>
         </nav>
         <div class="site-footer__col site-footer__col--contact">
           <h3>Get in touch</h3>
@@ -40,6 +40,6 @@
     </div>
   </footer>
 
-  <script src="assets/js/site.js"></script>
+  <script src="/assets/js/site.js"></script>
 </body>
 </html>

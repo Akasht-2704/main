@@ -1,9 +1,9 @@
 <?php
 $page_title = 'Contact — TrustX Pro';
 $page_description = 'Talk to TrustX Pro about product labels, loyalty, and distribution. Call 9826045670 or email trustxplus@gmail.com.';
-$page_canonical = 'https://trustxpro.in/contact.php';
-$nav_home = 'index.php';
-$nav_prefix = 'index.php';
+$page_canonical = 'https://trustxpro.in/contact';
+$nav_home = '/';
+$nav_prefix = '/';
 
 require __DIR__ . '/includes/head.php';
 require __DIR__ . '/includes/header.php';

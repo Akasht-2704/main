@@ -14,11 +14,11 @@ $page_canonical = $page_canonical ?? 'https://trustxpro.in/';
   <meta name="google-site-verification" content="<?php echo htmlspecialchars($google_site_verification, ENT_QUOTES, 'UTF-8'); ?>">
 <?php endif; ?>
   <link rel="canonical" href="<?php echo htmlspecialchars($page_canonical, ENT_QUOTES, 'UTF-8'); ?>">
-  <link rel="icon" type="image/png" href="assets/img/logo-mark.png">
+  <link rel="icon" type="image/png" href="/assets/img/logo-mark.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/css/site.css">
+  <link rel="stylesheet" href="/assets/css/site.css">
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>

@@ -1,9 +1,9 @@
 <?php
 $page_title = 'Privacy Policy — TrustX Pro';
 $page_description = 'Privacy Policy explaining how TrustX Pro collects, uses, and protects personal information.';
-$page_canonical = 'https://trustxpro.in/privacy.php';
-$nav_home = 'index.php';
-$nav_prefix = 'index.php';
+$page_canonical = 'https://trustxpro.in/privacy';
+$nav_home = '/';
+$nav_prefix = '/';
 
 require __DIR__ . '/includes/head.php';
 require __DIR__ . '/includes/header.php';
