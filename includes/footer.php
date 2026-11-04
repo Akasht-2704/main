@@ -14,8 +14,8 @@
       <div class="site-footer__cols">
         <nav class="site-footer__col" aria-label="Product">
           <h3>Product</h3>
-          <a href="/#how">How it works</a>
-          <a href="/#who">Who it’s for</a>
+          <a href="/about">About</a>
+          <a href="/tutorial">Tutorial</a>
           <a href="/faq">FAQ</a>
         </nav>
         <nav class="site-footer__col" aria-label="Company">

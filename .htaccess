@@ -15,6 +15,8 @@ DirectoryIndex index.php
   RewriteRule ^privacy/?$ privacy.php [L]
   RewriteRule ^contact/?$ contact.php [L]
   RewriteRule ^faq/?$ faq.php [L]
+  RewriteRule ^about/?$ about.php [L]
+  RewriteRule ^tutorial/?$ tutorial.php [L]
 
   # Legacy .html
   RewriteRule ^index\.html$ / [R=301,L]
