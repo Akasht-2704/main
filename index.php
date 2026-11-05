@@ -17,6 +17,9 @@ require __DIR__ . '/includes/how.php';
 require __DIR__ . '/includes/who.php';
 require __DIR__ . '/includes/contact.php';
 ?>
+    <p class="home-delete">
+      <a href="/delete-data">How to delete data from Trustxpro app</a>
+    </p>
   </main>
 
 <?php require __DIR__ . '/includes/footer.php'; ?>

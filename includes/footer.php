@@ -22,6 +22,7 @@
           <h3>Company</h3>
           <a href="/terms">Terms &amp; Conditions</a>
           <a href="/privacy">Privacy Policy</a>
+          <a href="/delete-data">How to delete data from Trustxpro app</a>
           <a href="/contact">Contact</a>
         </nav>
         <div class="site-footer__col site-footer__col--contact">

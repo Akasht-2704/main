@@ -17,6 +17,7 @@ DirectoryIndex index.php
   RewriteRule ^faq/?$ faq.php [L]
   RewriteRule ^about/?$ about.php [L]
   RewriteRule ^tutorial/?$ tutorial.php [L]
+  RewriteRule ^delete-data/?$ delete-data.php [L]
 
   # Legacy .html
   RewriteRule ^index\.html$ / [R=301,L]
