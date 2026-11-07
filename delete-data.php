@@ -20,7 +20,7 @@ require __DIR__ . '/includes/header.php';
     <section class="content-page">
       <div class="content-page__inner">
         <article class="delete-note">
-          <p>Please mail <a href="mailto:trustxplus@gmail.com">trustxplus@gmail.com</a> to delete your data permanently from the Trustxpro app. Your data will be deleted within 90 days from the date the request is received.</p>
+          <p>Please mail and share your account details to <a href="mailto:trustxplus@gmail.com">trustxplus@gmail.com</a> to delete your data permanently from the Trustxpro app. Your data will be deleted within 90 days from the date the request is received.</p>
           <a class="btn btn--primary" href="mailto:trustxplus@gmail.com?subject=Delete%20my%20TrustX%20Pro%20app%20data">Mail trustxplus@gmail.com</a>
         </article>
       </div>
